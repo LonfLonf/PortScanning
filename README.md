@@ -33,7 +33,7 @@ Make sure you have Python 3 installed. This script uses only standard libraries 
 python port_scanner.py -target <IP_or_domain> [options]
 ```
 
-## Fodase
+## Arguments
 | Argument  | Description                           | Default         |
 | :-------- | :---------------------------------- | :-------------- |
 | `-target` | Target IP address or domain name to scan | **Required**    |
